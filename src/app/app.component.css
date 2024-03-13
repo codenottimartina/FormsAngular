@@ -1,0 +1,8 @@
+.container {
+  margin-top: 30px;
+}
+
+/* classi aggiunte da Angular per indicare che ciò che è stato inserito nel form non è valido */
+input.ng-invalid.ng-touched{ 
+  border: 1px solid red; 
+}
